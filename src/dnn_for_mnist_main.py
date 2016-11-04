@@ -1,3 +1,5 @@
+# refer http://goodtogreate.tistory.com/entry/MNIST-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%85%8B%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%86%90%EA%B8%80%EC%94%A8-%EC%9D%B8%EC%8B%9D-Deep-Neural-Network-%EA%B5%AC%ED%98%84
+
 import tensorflow as tf
 import input_data
 
