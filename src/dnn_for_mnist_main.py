@@ -26,4 +26,4 @@ L2 = tf.nn.relu(tf.add(tf.matmul(L1, W2) , B2) )
 hypothesis = tf.add(tf.matmul(L2, W3), B3) # No need to use softmax here   
 
 # Define loss and optimizer
-cost =  tf.reduce_mean()         
+       
