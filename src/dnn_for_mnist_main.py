@@ -23,4 +23,4 @@ B3 = tf.Variable(tf.random_normal([10]))
 # Consturct model
 L1 = tf.nn.relu(tf.add(tf.matmul(X,  W1) , B1) ) 
 L2 = tf.nn.relu(tf.add(tf.matmul(L1, W2) , B2) )
-hypothesis = tf.add(tf.matmul(L2, W3), B3) # No need to use softmax here              
+hypothesis = tf.add(tf.matmul(L2, W3), B3) # No need to use softmax here               
